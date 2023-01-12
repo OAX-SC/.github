@@ -1,6 +1,8 @@
 # ¿Qué es OAX?
 
-![logo](logo.png)
+<div align="center">
+<img src="logo.png" width=50% height=50%>
+</div>
 
 ## Para todOs, todAs y todXs
 
